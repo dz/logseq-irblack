@@ -1,0 +1,17 @@
+{
+  "name": "IR_Black",
+  "author": "David Zhou",
+  "version": "0.0.1",
+  "description": "A version of the IR_Black theme for Logseq.",
+  "logseq": {
+    "themes": [
+      {
+        "name": "IR_Black",
+        "url": "./ir_black.css",
+        "description": "IR Black theme for Logseq."
+      }
+    ],
+    "id": "ir_black",
+    "icon": "./ir_black.png"
+  }
+}
